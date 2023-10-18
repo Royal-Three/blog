@@ -17,6 +17,10 @@ h2 {
     text-shadow: none;
 }
 
+.iframe {
+    text-align: center;
+}
+
 .menu {
     background-color: orange;
     width: 60px;
